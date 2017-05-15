@@ -4,3 +4,13 @@ li {
   margin: 1em;
 }
 
+.users {
+  border-bottom: 1px solid #999999;
+  padding-bottom: 5px;
+}
+
+#label {
+  color: white;
+  background-color: #008b69;
+  padding: 5px;
+}
