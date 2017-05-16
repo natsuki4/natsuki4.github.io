@@ -14,3 +14,21 @@ li {
   background-color: #008b69;
   padding: 5px;
 }
+
+#img {
+  width: 35%;
+  height: 35%;
+  padding-bottom: 6px;
+  margin-left: 100px;
+}
+
+.input-group {
+  margin-top: 10px;
+}
+
+.header {
+  font-size: small;
+  color: white;
+  background-color: #777777;
+}
+
