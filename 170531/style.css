@@ -9,27 +9,35 @@
   margin-top: 30px;
 }
 
-#main {
-  background-color: greenyellow;
+/*main*/
+
+/*side*/
+#new-article {
+  margin-top: 50px;
+  margin-bottom: 5px;
 }
 
-/*#side {
-  background-color: paleturquoise;
-}*/
+.article-item img {
+  margin-bottom: 5px;
+}
 
+.bunner {
+  margin-top: 80px;
+}
+
+.bunner img {
+  margin-top: 30px;
+}
+
+.article-item small {
+  padding-left: 10px;
+}
+
+/*footer*/
 #footer {
   background-color: lightpink;
 }
 
 .center {
   text-align: center;
-}
-
-#article {
-  margin-top: 30px;
-  margin-bottom: 5px;
-}
-
-span {
-  padding-left: 10px;
 }
