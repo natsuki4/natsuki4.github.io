@@ -1,8 +1,15 @@
 /*header*/
 #header {
-  background-color: #cccccc;
+  padding: 5px 0px;
+  color: white;
+  background-color: #68e6ff
 }
-#pickup {
+
+#header h1 {
+  padding-left: 10px;
+}
+
+#pickup img{
   text-align: center;
 }
 
@@ -51,7 +58,12 @@
 
 /*footer*/
 #footer {
-  background-color: lightpink;
+  padding: 5px;
+  background-color: #68e6ff;
+}
+
+#footer small {
+  color: white;
 }
 
 .center {
