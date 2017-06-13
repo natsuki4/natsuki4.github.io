@@ -17,6 +17,10 @@
   margin-top: 30px;
 }
 
+#nav {
+  margin-top: 30px;
+}
+
 /*main*/
 #main img {
   margin-top: 50px;
@@ -32,6 +36,10 @@
 
 .main-article {
   margin-bottom: 100px;
+}
+
+.main-article img {
+  margin-bottom: 50px;
 }
 
 /*side*/
